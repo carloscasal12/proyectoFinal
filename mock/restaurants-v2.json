@@ -1,0 +1,22 @@
+[
+  {
+    "restauranteID": 1,
+    "restaurante": "Restaurante El Comilon",
+    "barrio": "Torrero"
+  },
+  {
+    "restauranteID": 2,
+    "restaurante": "Bar-Restaurante Aragon",
+    "barrio": "Delicias"
+  },
+  {
+    "restauranteID": 3,
+    "restaurante": "Pizzeria Maria",
+    "barrio": "Centro"
+  },
+  {
+    "restauranteID": 4,
+    "restaurante": "Bar-Restaurante Plaza",
+    "barrio": "Centro"
+  }
+]

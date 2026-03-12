@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 9,
+    "plato": "Gilda con salsa Espinaler",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 10,
+    "plato": "Las croquetas de la abuela",
+    "descripcion": "Lomo, cebolla y huevo",
+    "precio": 2.5,
+    "cantidad": 3
+  }
+]
