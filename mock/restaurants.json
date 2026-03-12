@@ -1,0 +1,12 @@
+[
+  {
+    "restauranteID": 1,
+    "restaurante": "Restaurante El Comilon",
+    "barrio": "Torrero"
+  },
+  {
+    "restauranteID": 2,
+    "restaurante": "Bar-Restaurante Aragon",
+    "barrio": "Delicias"
+  }
+]

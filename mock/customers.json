@@ -1,0 +1,16 @@
+[
+  {
+    "clienteID": 1,
+    "nombre": "Ana",
+    "apellido1": "Lopez",
+    "apellido2": "Garcia",
+    "poblacion": "Zaragoza"
+  },
+  {
+    "clienteID": 2,
+    "nombre": "Luis",
+    "apellido1": "Martin",
+    "apellido2": "Sanz",
+    "poblacion": "Zaragoza"
+  }
+]
