@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 105,
+    "plato": "Hamburguesa serranita",
+    "descripcion": "carne picada de cerdo adobada en pan de mollete con queso chedar, tomate, pepinillo, jam\u00f3n serrano y mayonesa de soja",
+    "precio": 10.9,
+    "cantidad": 4
+  },
+  {
+    "platoID": 93,
+    "plato": "Torreznos",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 114,
+    "plato": "Pan con chocolate, aceite y sal",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 1
+  }
+]

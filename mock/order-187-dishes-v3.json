@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 26,
+    "plato": "Tartita de queso al momento con helado de tomillo.",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 9,
+    "plato": "Gilda con salsa Espinaler.",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 3
+  },
+  {
+    "platoID": 20,
+    "plato": "Arroz cremoso de calabaza, sobrasada anisada y queso viejo.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 1
+  }
+]

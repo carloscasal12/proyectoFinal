@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 18,
+    "plato": "Cremoso de patata asada, pulpo y pato ahumado.",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 1
+  },
+  {
+    "platoID": 17,
+    "plato": "Milhojas de guanciale, pimientos de cristal y patata de Torres.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 2
+  },
+  {
+    "platoID": 19,
+    "plato": "Chipironcitos tostados en guiso de careta de cerdo oreada, miel y avellanas.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 1
+  }
+]

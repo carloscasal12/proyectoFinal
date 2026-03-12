@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 97,
+    "plato": "Completo de tapas",
+    "descripcion": "mejillones en escabeche, calamares rellenos en aceite, piquillos, anchoas en aceite, esp\u00e1rragos blancos, olivas rellenas, boquerones caseros en vinagre y piparras dulces",
+    "precio": 8,
+    "cantidad": 1
+  },
+  {
+    "platoID": 83,
+    "plato": "Montaditos de Sardina ahumada",
+    "descripcion": null,
+    "precio": 1.95,
+    "cantidad": 1
+  },
+  {
+    "platoID": 96,
+    "plato": "Tortilla especial del d\u00eda",
+    "descripcion": "porci\u00f3n de tortilla del d\u00eda",
+    "precio": 4.5,
+    "cantidad": 1
+  }
+]

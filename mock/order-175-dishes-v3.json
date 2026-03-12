@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 100,
+    "plato": "Pincho de champi\u00f1\u00f3n y gamba",
+    "descripcion": null,
+    "precio": 2.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 87,
+    "plato": "Montaditos de Setas",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 4
+  },
+  {
+    "platoID": 125,
+    "plato": "Bocadillo de Jam\u00f3n de Teruel",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 4
+  }
+]

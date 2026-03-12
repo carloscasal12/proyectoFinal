@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 36,
+    "plato": "Alitas picantes",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 65,
+    "plato": "Canelones",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 8
+  },
+  {
+    "platoID": 42,
+    "plato": "Boquer\u00f3n en vinagre",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 79,
+    "plato": "Pizza Serrana",
+    "descripcion": "tomate, queso, jam\u00f3n serrano, queso brie, tomate cherry, mermelada tomate",
+    "precio": 8.5,
+    "cantidad": 4
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 61,
+    "plato": "Lata de Mejill\u00f3n",
+    "descripcion": null,
+    "precio": 4.1,
+    "cantidad": 1
+  },
+  {
+    "platoID": 75,
+    "plato": "Pizza Carbonara",
+    "descripcion": "tomate, queso, S.carbonara, bacon, huevo (s\u00f3lo invierno),or\u00e9gano, pimienta",
+    "precio": 8.2,
+    "cantidad": 4
+  },
+  {
+    "platoID": 68,
+    "plato": "Pizza Romana",
+    "descripcion": "tomate, queso, jam\u00f3n york, olivas negras, or\u00e9gano",
+    "precio": 7.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 77,
+    "plato": "Pizza Champi\u00f1\u00f3n",
+    "descripcion": "tomate, queso, jam\u00f3n york, champi\u00f1\u00f3n, cebolla, olivas, pimiento, or\u00e9gano",
+    "precio": 8.5,
+    "cantidad": 1
+  }
+]

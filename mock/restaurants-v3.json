@@ -1,0 +1,27 @@
+[
+  {
+    "restauranteID": 1,
+    "restaurante": "Restaurante El comil\u00f3n",
+    "barrio": "Torrero"
+  },
+  {
+    "restauranteID": 2,
+    "restaurante": "Bar-Restaurante Arag\u00f3n",
+    "barrio": "Delicias"
+  },
+  {
+    "restauranteID": 3,
+    "restaurante": "Pizzer\u00eda Mar\u00eda",
+    "barrio": "Centro"
+  },
+  {
+    "restauranteID": 4,
+    "restaurante": "Bar-Restaurante Plaza",
+    "barrio": "Centro"
+  },
+  {
+    "restauranteID": 5,
+    "restaurante": "Restaurante los Olivos",
+    "barrio": "Delicias"
+  }
+]

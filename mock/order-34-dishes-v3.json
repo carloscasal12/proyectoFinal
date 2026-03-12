@@ -1,0 +1,37 @@
+[
+  {
+    "platoID": 71,
+    "plato": "Pizza At\u00fan",
+    "descripcion": "tomate, queso, at\u00fan, olivas verdes, pimiento morr\u00f3n, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 51,
+    "plato": "Esp\u00e1rragos",
+    "descripcion": null,
+    "precio": 6.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 56,
+    "plato": "Croqueta de setas (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "cantidad": 2
+  },
+  {
+    "platoID": 38,
+    "plato": "Queso Brie y Camembert con mermelada de ar\u00e1ndanos",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 2
+  },
+  {
+    "platoID": 64,
+    "plato": "Lasa\u00f1a",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 80,
+    "plato": "Pizza Napoli",
+    "descripcion": "tomate, queso, jam\u00f3n york, anchoas, pimiento morr\u00f3n, olivas",
+    "precio": 8.2,
+    "cantidad": 2
+  },
+  {
+    "platoID": 73,
+    "plato": "Pizza 3 Quesos",
+    "descripcion": "tomate, queso mozzarella, queso semicurado, queso roquefort, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 65,
+    "plato": "Canelones",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 3
+  },
+  {
+    "platoID": 48,
+    "plato": "Txistorra frita",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 1
+  }
+]

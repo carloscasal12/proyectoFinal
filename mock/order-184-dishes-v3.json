@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 123,
+    "plato": "Lomos de bacalao con tomate y pimientos",
+    "descripcion": null,
+    "precio": 11.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 89,
+    "plato": "Montaditos de jam\u00f3n dulce, queso y trigueros",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 118,
+    "plato": "Macarrones con tomate, chorizo y jam\u00f3n",
+    "descripcion": null,
+    "precio": 5.9,
+    "cantidad": 4
+  }
+]

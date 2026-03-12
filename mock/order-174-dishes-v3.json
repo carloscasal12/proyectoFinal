@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 86,
+    "plato": "Montaditos de queso curado",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 89,
+    "plato": "Montaditos de jam\u00f3n dulce, queso y trigueros",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 113,
+    "plato": "Tarta de queso",
+    "descripcion": "con pimienta de sichuan y coulis de frambuesa",
+    "precio": 4.8,
+    "cantidad": 5
+  }
+]

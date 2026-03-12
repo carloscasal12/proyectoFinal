@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 51,
+    "plato": "Esp\u00e1rragos",
+    "descripcion": null,
+    "precio": 6.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 60,
+    "plato": "Lata de berberechos",
+    "descripcion": null,
+    "precio": 4.1,
+    "cantidad": 2
+  },
+  {
+    "platoID": 72,
+    "plato": "Pizza Bolo\u00f1esa",
+    "descripcion": "tomate, queso, salsa bolo\u00f1esa, huevo (s\u00f3lo invierno)",
+    "precio": 7.5,
+    "cantidad": 5
+  }
+]

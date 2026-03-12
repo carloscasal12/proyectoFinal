@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 134,
+    "plato": "Piruletas de morcilla",
+    "descripcion": "con mermelada de tomate y albahaca",
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 132,
+    "plato": "Bomb\u00f3n de morcilla",
+    "descripcion": "",
+    "precio": 2.8,
+    "cantidad": 1
+  },
+  {
+    "platoID": 145,
+    "plato": "Crema de setas",
+    "descripcion": "con huevo mollet y picatostes de pan de semillas",
+    "precio": 7,
+    "cantidad": 1
+  }
+]

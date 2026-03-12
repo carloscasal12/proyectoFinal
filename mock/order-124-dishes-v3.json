@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 8,
+    "plato": "Paletilla de ternasco entera con patatas",
+    "descripcion": "Una paletilla (1Kg aproximadamente)",
+    "precio": 22,
+    "cantidad": 1
+  },
+  {
+    "platoID": 5,
+    "plato": "Creps de manzana y foie",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 2
+  }
+]

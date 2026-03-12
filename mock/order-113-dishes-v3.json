@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 26,
+    "plato": "Tartita de queso al momento con helado de tomillo.",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 10,
+    "plato": "Las croquetas de la abuela",
+    "descripcion": "De lomo de la conserva, cebolla de Fuentes de Ebro y huevo eco",
+    "precio": 2.5,
+    "cantidad": 4
+  },
+  {
+    "platoID": 23,
+    "plato": "Jarrete de ternasco lacado con guisote de espelta Km0, tomillo lim\u00f3n, mejorana y mostaza de pasas.",
+    "descripcion": null,
+    "precio": 15.5,
+    "cantidad": 1
+  }
+]

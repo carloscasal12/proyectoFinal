@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 10,
+    "plato": "Las croquetas de la abuela",
+    "descripcion": "De lomo de la conserva, cebolla de Fuentes de Ebro y huevo eco",
+    "precio": 2.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 13,
+    "plato": "La ensaladilla de bacalao ahumado, Jamon DO, harissa y lim\u00f3n kosho",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 3
+  },
+  {
+    "platoID": 14,
+    "plato": "Tartar de salm\u00f3n macerado, ciruela en salaz\u00f3n, pomelo y helado de mostaza.",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 3,
+    "plato": "Creps de jam\u00f3n y queso",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 3
+  },
+  {
+    "platoID": 5,
+    "plato": "Creps de manzana y foie",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 2
+  }
+]

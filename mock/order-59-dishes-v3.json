@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 7,
+    "plato": "Costillas de cerdo y patatas",
+    "descripcion": "1,5 Kg aproximadamente",
+    "precio": 15,
+    "cantidad": 1
+  },
+  {
+    "platoID": 4,
+    "plato": "Creps de boletus",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  }
+]

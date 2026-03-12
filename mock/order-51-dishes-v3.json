@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 20,
+    "plato": "Arroz cremoso de calabaza, sobrasada anisada y queso viejo.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 19,
+    "plato": "Chipironcitos tostados en guiso de careta de cerdo oreada, miel y avellanas.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 2
+  },
+  {
+    "platoID": 27,
+    "plato": "Chocolate ruby asado al Bourbon, crema helada de caramelo y flor de sal.",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 12
+  }
+]

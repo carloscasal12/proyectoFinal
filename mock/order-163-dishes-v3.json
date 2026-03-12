@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 139,
+    "plato": "Queso estilo camembert gratinado",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 1
+  },
+  {
+    "platoID": 155,
+    "plato": "Crema de chocolate belga",
+    "descripcion": "artesanos de leche de oveja",
+    "precio": 4.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 147,
+    "plato": "Fideos al wok",
+    "descripcion": "de trigo, con verduras, gambas y langostinos.",
+    "precio": 10.5,
+    "cantidad": 2
+  }
+]

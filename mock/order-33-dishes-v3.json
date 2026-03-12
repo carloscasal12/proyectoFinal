@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 89,
+    "plato": "Montaditos de jam\u00f3n dulce, queso y trigueros",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 128,
+    "plato": "Bocadillo de Bacon con queso",
+    "descripcion": null,
+    "precio": 4.25,
+    "cantidad": 1
+  },
+  {
+    "platoID": 110,
+    "plato": "Plato de jam\u00f3n",
+    "descripcion": "plato de jam\u00f3n D.O.P Sierra cortado a mano",
+    "precio": 12.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 105,
+    "plato": "Hamburguesa serranita",
+    "descripcion": "carne picada de cerdo adobada en pan de mollete con queso chedar, tomate, pepinillo, jam\u00f3n serrano y mayonesa de soja",
+    "precio": 10.9,
+    "cantidad": 1
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 67,
+    "plato": "Pizza Margarita",
+    "descripcion": "tomate, queso, or\u00e9gano, olivas negras",
+    "precio": 7,
+    "cantidad": 1
+  },
+  {
+    "platoID": 78,
+    "plato": "Pizza Barbacoa",
+    "descripcion": "tomate, queso, carne picada, bacon, salsa barbacoa, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 58,
+    "plato": "Croqueta de ib\u00e9rico (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "cantidad": 1
+  }
+]

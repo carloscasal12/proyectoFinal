@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 11,
+    "plato": "Jam\u00f3n DO Teruel al corte",
+    "descripcion": null,
+    "precio": 9.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 25,
+    "plato": "Pan dormido tostado en sart\u00e9n con pasi\u00f3n y cacao.",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 3
+  },
+  {
+    "platoID": 15,
+    "plato": "Royal de foie, esponja de manzana esperiega de Castielfabib y granada.",
+    "descripcion": null,
+    "precio": 9.5,
+    "cantidad": 4
+  }
+]

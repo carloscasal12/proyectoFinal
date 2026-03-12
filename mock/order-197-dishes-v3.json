@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 118,
+    "plato": "Macarrones con tomate, chorizo y jam\u00f3n",
+    "descripcion": null,
+    "precio": 5.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 111,
+    "plato": "Plato de queso",
+    "descripcion": "quesos variados",
+    "precio": 13.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 130,
+    "plato": "Bocadillo de Pollo con queso y cebolla caramelizada",
+    "descripcion": null,
+    "precio": 4.6,
+    "cantidad": 1
+  }
+]

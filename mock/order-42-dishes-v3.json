@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 83,
+    "plato": "Montaditos de Sardina ahumada",
+    "descripcion": null,
+    "precio": 1.95,
+    "cantidad": 2
+  },
+  {
+    "platoID": 116,
+    "plato": "Fritada con huevo escalfado",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 94,
+    "plato": "Croquet\u00f3n de sepia en tinta",
+    "descripcion": "Con alioli de soja gratinado (2 unidades)",
+    "precio": 6.6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 89,
+    "plato": "Montaditos de jam\u00f3n dulce, queso y trigueros",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  }
+]

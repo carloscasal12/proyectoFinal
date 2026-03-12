@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 38,
+    "plato": "Queso Brie y Camembert con mermelada de ar\u00e1ndanos",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 75,
+    "plato": "Pizza Carbonara",
+    "descripcion": "tomate, queso, S.carbonara, bacon, huevo (s\u00f3lo invierno),or\u00e9gano, pimienta",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 59,
+    "plato": "Jalape\u00f1os (6 unidades)",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 64,
+    "plato": "Lasa\u00f1a",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  }
+]

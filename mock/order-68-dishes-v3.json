@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 43,
+    "plato": "Anchoas",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 59,
+    "plato": "Jalape\u00f1os (6 unidades)",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 47,
+    "plato": "Carrilleras al vino tinto",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 2
+  },
+  {
+    "platoID": 66,
+    "plato": "Mousaka",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 4
+  }
+]

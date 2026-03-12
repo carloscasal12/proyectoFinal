@@ -1,0 +1,1250 @@
+[
+  {
+    "platoID": 1,
+    "plato": "Ensalada de queso de cabra lechugas variadas frutos secos",
+    "descripcion": null,
+    "precio": 7.5,
+    "categoriaID": 2,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 2,
+    "plato": "Croquetas de longaniza.",
+    "descripcion": null,
+    "precio": 7,
+    "categoriaID": 1,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 3,
+    "plato": "Creps de jam\u00f3n y queso",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 4,
+    "plato": "Creps de boletus",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 5,
+    "plato": "Creps de manzana y foie",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 6,
+    "plato": "Pollo asado con patatas",
+    "descripcion": "2Kg Aproximadamente",
+    "precio": 14.5,
+    "categoriaID": 7,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 7,
+    "plato": "Costillas de cerdo y patatas",
+    "descripcion": "1,5 Kg aproximadamente",
+    "precio": 15,
+    "categoriaID": 7,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 8,
+    "plato": "Paletilla de ternasco entera con patatas",
+    "descripcion": "Una paletilla (1Kg aproximadamente)",
+    "precio": 22,
+    "categoriaID": 7,
+    "restauranteID": 1
+  },
+  {
+    "platoID": 9,
+    "plato": "Gilda con salsa Espinaler.",
+    "descripcion": null,
+    "precio": 3.5,
+    "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 10,
+    "plato": "Las croquetas de la abuela",
+    "descripcion": "De lomo de la conserva, cebolla de Fuentes de Ebro y huevo eco",
+    "precio": 2.5,
+    "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 11,
+    "plato": "Jam\u00f3n DO Teruel al corte",
+    "descripcion": null,
+    "precio": 9.5,
+    "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 12,
+    "plato": "Plato de Los mejores Quesos",
+    "descripcion": null,
+    "precio": 15,
+    "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 13,
+    "plato": "La ensaladilla de bacalao ahumado, Jamon DO, harissa y lim\u00f3n kosho",
+    "descripcion": null,
+    "precio": 9,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 14,
+    "plato": "Tartar de salm\u00f3n macerado, ciruela en salaz\u00f3n, pomelo y helado de mostaza.",
+    "descripcion": null,
+    "precio": 12,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 15,
+    "plato": "Royal de foie, esponja de manzana esperiega de Castielfabib y granada.",
+    "descripcion": null,
+    "precio": 9.5,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 16,
+    "plato": "Huevito con boletus a la crema y migas tostadas.",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 17,
+    "plato": "Milhojas de guanciale, pimientos de cristal y patata de Torres.",
+    "descripcion": null,
+    "precio": 9,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 18,
+    "plato": "Cremoso de patata asada, pulpo y pato ahumado.",
+    "descripcion": null,
+    "precio": 12,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 19,
+    "plato": "Chipironcitos tostados en guiso de careta de cerdo oreada, miel y avellanas.",
+    "descripcion": null,
+    "precio": 9,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 20,
+    "plato": "Arroz cremoso de calabaza, sobrasada anisada y queso viejo.",
+    "descripcion": null,
+    "precio": 9,
+    "categoriaID": 2,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 21,
+    "plato": "Terrina melosa y crujiente de carrillera, manitas y foie con jugo de manzanilla silvestre al palo cortado.",
+    "descripcion": null,
+    "precio": 9.5,
+    "categoriaID": 7,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 22,
+    "plato": "Canel\u00f3n de caza mayor y foie con salsa bordalesa cl\u00e1sica.",
+    "descripcion": null,
+    "precio": 8,
+    "categoriaID": 7,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 23,
+    "plato": "Jarrete de ternasco lacado con guisote de espelta Km0, tomillo lim\u00f3n, mejorana y mostaza de pasas.",
+    "descripcion": null,
+    "precio": 15.5,
+    "categoriaID": 7,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 24,
+    "plato": "Cremat de vainilla Planifolia mejicana, borrachitos de ron de ca\u00f1a y nuez",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 9,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 25,
+    "plato": "Pan dormido tostado en sart\u00e9n con pasi\u00f3n y cacao.",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 9,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 26,
+    "plato": "Tartita de queso al momento con helado de tomillo.",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 9,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 27,
+    "plato": "Chocolate ruby asado al Bourbon, crema helada de caramelo y flor de sal.",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 9,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 28,
+    "plato": "Bravas",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 29,
+    "plato": "Rabas de calamar",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 30,
+    "plato": "Anillas de calamar",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 31,
+    "plato": "Sepia rebozada",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 32,
+    "plato": "Tortilla de patata (entera)",
+    "descripcion": null,
+    "precio": 5.8,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 33,
+    "plato": "Gambas al ajillo",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 34,
+    "plato": "Perrito caliente",
+    "descripcion": null,
+    "precio": 3,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 35,
+    "plato": "Huevos Moll",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 36,
+    "plato": "Alitas picantes",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 37,
+    "plato": "Callos",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 38,
+    "plato": "Queso Brie y Camembert con mermelada de ar\u00e1ndanos",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 39,
+    "plato": "Plato de queso y chorizo",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 40,
+    "plato": "Plato de queso y longaniza",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 41,
+    "plato": "Plato de queso curado",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 42,
+    "plato": "Boquer\u00f3n en vinagre",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 43,
+    "plato": "Anchoas",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 44,
+    "plato": "Aros de cebolla",
+    "descripcion": null,
+    "precio": 3.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 45,
+    "plato": "Langostino en pasta filo (unidad)",
+    "descripcion": null,
+    "precio": 1,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 46,
+    "plato": "Saquitos de bogavante",
+    "descripcion": null,
+    "precio": 3.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 47,
+    "plato": "Carrilleras al vino tinto",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 48,
+    "plato": "Txistorra frita",
+    "descripcion": null,
+    "precio": 3.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 49,
+    "plato": "Txistorra a la Navarra",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 50,
+    "plato": "Verduritas en tempura a la miel",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 51,
+    "plato": "Esp\u00e1rragos",
+    "descripcion": null,
+    "precio": 6.2,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 52,
+    "plato": "Tortitas de camar\u00f3n",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 53,
+    "plato": "Pulpo a feira",
+    "descripcion": null,
+    "precio": 12,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 54,
+    "plato": "Nubes de pollo",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 55,
+    "plato": "Gamb\u00f3n rebozado (unidad)",
+    "descripcion": null,
+    "precio": 1,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 56,
+    "plato": "Croqueta de setas (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 57,
+    "plato": "Croqueta de cocido (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 58,
+    "plato": "Croqueta de ib\u00e9rico (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 59,
+    "plato": "Jalape\u00f1os (6 unidades)",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 60,
+    "plato": "Lata de berberechos",
+    "descripcion": null,
+    "precio": 4.1,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 61,
+    "plato": "Lata de Mejill\u00f3n",
+    "descripcion": null,
+    "precio": 4.1,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 62,
+    "plato": "Lata de Navajuelas",
+    "descripcion": null,
+    "precio": 3,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 63,
+    "plato": "Lata de sardinillas",
+    "descripcion": null,
+    "precio": 2.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 64,
+    "plato": "Lasa\u00f1a",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 65,
+    "plato": "Canelones",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 66,
+    "plato": "Mousaka",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 67,
+    "plato": "Pizza Margarita",
+    "descripcion": "tomate, queso, or\u00e9gano, olivas negras",
+    "precio": 7,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 68,
+    "plato": "Pizza Romana",
+    "descripcion": "tomate, queso, jam\u00f3n york, olivas negras, or\u00e9gano",
+    "precio": 7.5,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 69,
+    "plato": "Pizza Tropical",
+    "descripcion": "tomate, queso, jam\u00f3n york, pi\u00f1a, or\u00e9gano, salsa agridulce",
+    "precio": 8,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 70,
+    "plato": "Pizza Diablo",
+    "descripcion": "tomate, queso, jam\u00f3n york, guindilla, or\u00e9gano, salsa picante, olivas",
+    "precio": 7.8,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 71,
+    "plato": "Pizza At\u00fan",
+    "descripcion": "tomate, queso, at\u00fan, olivas verdes, pimiento morr\u00f3n, or\u00e9gano",
+    "precio": 8.2,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 72,
+    "plato": "Pizza Bolo\u00f1esa",
+    "descripcion": "tomate, queso, salsa bolo\u00f1esa, huevo (s\u00f3lo invierno)",
+    "precio": 7.5,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 73,
+    "plato": "Pizza 3 Quesos",
+    "descripcion": "tomate, queso mozzarella, queso semicurado, queso roquefort, or\u00e9gano",
+    "precio": 8.2,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 74,
+    "plato": "Pizza Campera",
+    "descripcion": "tomate, queso, or\u00e9gano, bacon, cebolla, roquefort",
+    "precio": 8.5,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 75,
+    "plato": "Pizza Carbonara",
+    "descripcion": "tomate, queso, S.carbonara, bacon, huevo (s\u00f3lo invierno),or\u00e9gano, pimienta",
+    "precio": 8.2,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 76,
+    "plato": "Pizza de Queso de Cabra",
+    "descripcion": "tomate, queso, york, queso cabra,pimiento, olivas, alcaparras, mermelada tomate",
+    "precio": 8.5,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 77,
+    "plato": "Pizza Champi\u00f1\u00f3n",
+    "descripcion": "tomate, queso, jam\u00f3n york, champi\u00f1\u00f3n, cebolla, olivas, pimiento, or\u00e9gano",
+    "precio": 8.5,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 78,
+    "plato": "Pizza Barbacoa",
+    "descripcion": "tomate, queso, carne picada, bacon, salsa barbacoa, or\u00e9gano",
+    "precio": 8.2,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 79,
+    "plato": "Pizza Serrana",
+    "descripcion": "tomate, queso, jam\u00f3n serrano, queso brie, tomate cherry, mermelada tomate",
+    "precio": 8.5,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 80,
+    "plato": "Pizza Napoli",
+    "descripcion": "tomate, queso, jam\u00f3n york, anchoas, pimiento morr\u00f3n, olivas",
+    "precio": 8.2,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 81,
+    "plato": "Pizza Vegetal con queso de cabra",
+    "descripcion": "tomate, queso, espinaca, calabac\u00edn, berenjena, Cherry, cabra",
+    "precio": 8.2,
+    "categoriaID": 4,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 82,
+    "plato": "Montaditos de Jam\u00f3n D.O.",
+    "descripcion": null,
+    "precio": 1.95,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 83,
+    "plato": "Montaditos de Sardina ahumada",
+    "descripcion": null,
+    "precio": 1.95,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 84,
+    "plato": "Montaditos de Salm\u00f3n marinado",
+    "descripcion": null,
+    "precio": 2.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 85,
+    "plato": "Montaditos de anchoas",
+    "descripcion": null,
+    "precio": 2.4,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 86,
+    "plato": "Montaditos de queso curado",
+    "descripcion": null,
+    "precio": 2.4,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 87,
+    "plato": "Montaditos de Setas",
+    "descripcion": null,
+    "precio": 2.4,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 88,
+    "plato": "Montaditos de Queso y sobrasada",
+    "descripcion": null,
+    "precio": 2.4,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 89,
+    "plato": "Montaditos de jam\u00f3n dulce, queso y trigueros",
+    "descripcion": null,
+    "precio": 2.4,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 90,
+    "plato": "Jam\u00f3n con chorreras",
+    "descripcion": "Jam\u00f3n dulce, huevo duro y queso (1u.)",
+    "precio": 2.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 91,
+    "plato": "Anchoas del Cant\u00e1brico",
+    "descripcion": null,
+    "precio": 7.6,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 92,
+    "plato": "Bravas picantes",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 93,
+    "plato": "Torreznos",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 94,
+    "plato": "Croquet\u00f3n de sepia en tinta",
+    "descripcion": "Con alioli de soja gratinado (2 unidades)",
+    "precio": 6.6,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 95,
+    "plato": "Boquerones en vinagre caseros",
+    "descripcion": null,
+    "precio": 6.4,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 96,
+    "plato": "Tortilla especial del d\u00eda",
+    "descripcion": "porci\u00f3n de tortilla del d\u00eda",
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 97,
+    "plato": "Completo de tapas",
+    "descripcion": "mejillones en escabeche, calamares rellenos en aceite, piquillos, anchoas en aceite, esp\u00e1rragos blancos, olivas rellenas, boquerones caseros en vinagre y piparras dulces",
+    "precio": 8,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 98,
+    "plato": "Pincho de gamba",
+    "descripcion": "huevo de codorniz, langostino cocido y oliva rellena",
+    "precio": 2.5,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 99,
+    "plato": "Gilda",
+    "descripcion": "olivas rellenas, anchoas en aceite y piparras",
+    "precio": 1.3,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 100,
+    "plato": "Pincho de champi\u00f1\u00f3n y gamba",
+    "descripcion": null,
+    "precio": 2.5,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 101,
+    "plato": "Provolone",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 102,
+    "plato": "Ensalada flor",
+    "descripcion": "endivias, variedad de verdes, manzana, nueces y salsa roquefort",
+    "precio": 8,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 103,
+    "plato": "Ensalada burrata",
+    "descripcion": "tomate cherry confitado y burrata",
+    "precio": 8.8,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 104,
+    "plato": "Ensalada jam\u00f3n",
+    "descripcion": "variedad de verdes, cebolla caramelizada, virutasa de foie y jam\u00f3n crujiente",
+    "precio": 9.1,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 105,
+    "plato": "Hamburguesa serranita",
+    "descripcion": "carne picada de cerdo adobada en pan de mollete con queso chedar, tomate, pepinillo, jam\u00f3n serrano y mayonesa de soja",
+    "precio": 10.9,
+    "categoriaID": 7,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 106,
+    "plato": "Tartar de Longaniza",
+    "descripcion": "conserva",
+    "precio": 7.6,
+    "categoriaID": 7,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 107,
+    "plato": "Surtido ib\u00e9rico frito",
+    "descripcion": "Lomo adobado, morcilla de arroz, longaniza fresca, costilla adobada y chorizo",
+    "precio": 11.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 108,
+    "plato": "Surtido de embutidos de la Sierra",
+    "descripcion": "Jam\u00f3n de teruel D.O.P. Sierra, lomo embuchado, mortadela, longaniza y queso",
+    "precio": 12.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 109,
+    "plato": "Carpaccio de panceta",
+    "descripcion": "acompa\u00f1ado de tostadas y mermelada de tomate",
+    "precio": 7.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 110,
+    "plato": "Plato de jam\u00f3n",
+    "descripcion": "plato de jam\u00f3n D.O.P Sierra cortado a mano",
+    "precio": 12.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 111,
+    "plato": "Plato de queso",
+    "descripcion": "quesos variados",
+    "precio": 13.9,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 112,
+    "plato": "Carrot Cake",
+    "descripcion": "con butter cream",
+    "precio": 4.8,
+    "categoriaID": 9,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 113,
+    "plato": "Tarta de queso",
+    "descripcion": "con pimienta de sichuan y coulis de frambuesa",
+    "precio": 4.8,
+    "categoriaID": 9,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 114,
+    "plato": "Pan con chocolate, aceite y sal",
+    "descripcion": null,
+    "precio": 3.5,
+    "categoriaID": 9,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 115,
+    "plato": "Sopa de cocido",
+    "descripcion": null,
+    "precio": 5.9,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 116,
+    "plato": "Fritada con huevo escalfado",
+    "descripcion": null,
+    "precio": 6,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 117,
+    "plato": "Sepia a la plancha",
+    "descripcion": null,
+    "precio": 9,
+    "categoriaID": 8,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 118,
+    "plato": "Macarrones con tomate, chorizo y jam\u00f3n",
+    "descripcion": null,
+    "precio": 5.9,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 119,
+    "plato": "Macarrones con nata, champi\u00f1ones y bacon",
+    "descripcion": null,
+    "precio": 5.9,
+    "categoriaID": 2,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 120,
+    "plato": "Manitas deshuesadas con chorizo",
+    "descripcion": null,
+    "precio": 6.9,
+    "categoriaID": 7,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 121,
+    "plato": "Fricand\u00f3 de ternera con salsa de setas",
+    "descripcion": null,
+    "precio": 10.5,
+    "categoriaID": 7,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 122,
+    "plato": "Muslitos de codorniz escabechados",
+    "descripcion": null,
+    "precio": 10.9,
+    "categoriaID": 7,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 123,
+    "plato": "Lomos de bacalao con tomate y pimientos",
+    "descripcion": null,
+    "precio": 11.5,
+    "categoriaID": 8,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 124,
+    "plato": "Mejillones gallegos a la marinera",
+    "descripcion": null,
+    "precio": 8,
+    "categoriaID": 8,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 125,
+    "plato": "Bocadillo de Jam\u00f3n de Teruel",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 126,
+    "plato": "Bocadillo de Lomo embuchado",
+    "descripcion": null,
+    "precio": 3.9,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 127,
+    "plato": "Bocadillo de At\u00fan, anchoas, olivas y pimiento",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 128,
+    "plato": "Bocadillo de Bacon con queso",
+    "descripcion": null,
+    "precio": 4.25,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 129,
+    "plato": "Bocadillo de Tortilla del d\u00eda",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 130,
+    "plato": "Bocadillo de Pollo con queso y cebolla caramelizada",
+    "descripcion": null,
+    "precio": 4.6,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 131,
+    "plato": "Bocadillo de Filete de ternera con queso y pimiento verde",
+    "descripcion": null,
+    "precio": 5.1,
+    "categoriaID": 5,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 132,
+    "plato": "Bomb\u00f3n de morcilla",
+    "descripcion": "",
+    "precio": 2.8,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 133,
+    "plato": "Tosta de escalivada con sardina ahumada",
+    "descripcion": null,
+    "precio": 4,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 134,
+    "plato": "Piruletas de morcilla",
+    "descripcion": "con mermelada de tomate y albahaca",
+    "precio": 6,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 135,
+    "plato": "Bravas",
+    "descripcion": "salsa casera picante y mayonesa.salsa casera picante y mayonesa.",
+    "precio": 6.5,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 136,
+    "plato": "Croquetas (6 ud)",
+    "descripcion": "de rabo de toro, de jam\u00f3n, de setas, de cocido, de bacalao y de at\u00fan y piquillos.",
+    "precio": 6.5,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 137,
+    "plato": "Oreja",
+    "descripcion": null,
+    "precio": 7,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 138,
+    "plato": "Tempura melosa de verduritas y queso de cabra",
+    "descripcion": null,
+    "precio": 7.5,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 139,
+    "plato": "Queso estilo camembert gratinado",
+    "descripcion": null,
+    "precio": 12,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 140,
+    "plato": "Tabla de queso",
+    "descripcion": "de la Sierra (leche cruda de oveja, oveja al romero, de oveja al vino tinto), de Hontanar con trufa negra, con nueces, mermelada de higos y aceite de oliva del Bajo Arag\u00f3n.",
+    "precio": 16,
+    "categoriaID": 1,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 141,
+    "plato": "Ensalada de tallarines de calabac\u00edn",
+    "descripcion": "frambuesas, chips de pi\u00f1a y mango, frutos secos, salsa ligera de soja caramelizada y s\u00e9samo.",
+    "precio": 11.5,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 142,
+    "plato": "Ensalada de quinoa, r\u00facula y mango fresco",
+    "descripcion": "r\u00facula, espinaca fresca, mango, aguacate, anacardos, cebolla morada y vinagreta de aceite de s\u00e9samo, soja, miel y cayena.",
+    "precio": 12,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 143,
+    "plato": "Ensalada tibia de kebab",
+    "descripcion": "brotes tiernos, salteado de carne de kebab, picatostes crujientes de pan, salsa de yogurt.",
+    "precio": 11.5,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 144,
+    "plato": "Sopa de cebolla",
+    "descripcion": "con huevo, emmental y pan frito.",
+    "precio": 7,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 145,
+    "plato": "Crema de setas",
+    "descripcion": "con huevo mollet y picatostes de pan de semillas",
+    "precio": 7,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 146,
+    "plato": "Crema de borraja",
+    "descripcion": "con perlitas de soja y mozzarella.",
+    "precio": 7,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 147,
+    "plato": "Fideos al wok",
+    "descripcion": "de trigo, con verduras, gambas y langostinos.",
+    "precio": 10.5,
+    "categoriaID": 2,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 148,
+    "plato": "Longaniza en salsa de verm\u00fa",
+    "descripcion": null,
+    "precio": 6.5,
+    "categoriaID": 7,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 149,
+    "plato": "Pollo crujiente",
+    "descripcion": "con mojos, de mostaza y miel y salsa ligera picante.",
+    "precio": 9.5,
+    "categoriaID": 7,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 150,
+    "plato": "Pulpo",
+    "descripcion": "con patata parmentier.",
+    "precio": 13,
+    "categoriaID": 8,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 151,
+    "plato": "Costillas",
+    "descripcion": "asadas con salsa especial de la casa y patatas fritas crujientes.",
+    "precio": 13.5,
+    "categoriaID": 7,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 152,
+    "plato": "Rabo de toro",
+    "descripcion": "en dos cocciones, con patatas.",
+    "precio": 16,
+    "categoriaID": 7,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 153,
+    "plato": "Flan de queso",
+    "descripcion": "casero con nueces.",
+    "precio": 4,
+    "categoriaID": 9,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 154,
+    "plato": "Brownie",
+    "descripcion": "casero con helado de vainilla.",
+    "precio": 4.5,
+    "categoriaID": 9,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 155,
+    "plato": "Crema de chocolate belga",
+    "descripcion": "artesanos de leche de oveja",
+    "precio": 4.5,
+    "categoriaID": 9,
+    "restauranteID": 5
+  },
+  {
+    "platoID": 156,
+    "plato": "Arroz con leche",
+    "descripcion": "artesanos de leche de oveja",
+    "precio": 4.5,
+    "categoriaID": 9,
+    "restauranteID": 5
+  }
+]

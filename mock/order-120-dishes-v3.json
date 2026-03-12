@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 67,
+    "plato": "Pizza Margarita",
+    "descripcion": "tomate, queso, or\u00e9gano, olivas negras",
+    "precio": 7,
+    "cantidad": 1
+  },
+  {
+    "platoID": 33,
+    "plato": "Gambas al ajillo",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 8
+  },
+  {
+    "platoID": 38,
+    "plato": "Queso Brie y Camembert con mermelada de ar\u00e1ndanos",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  }
+]

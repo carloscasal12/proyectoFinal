@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 53,
+    "plato": "Pulpo a feira",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 2
+  },
+  {
+    "platoID": 73,
+    "plato": "Pizza 3 Quesos",
+    "descripcion": "tomate, queso mozzarella, queso semicurado, queso roquefort, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 4
+  },
+  {
+    "platoID": 72,
+    "plato": "Pizza Bolo\u00f1esa",
+    "descripcion": "tomate, queso, salsa bolo\u00f1esa, huevo (s\u00f3lo invierno)",
+    "precio": 7.5,
+    "cantidad": 1
+  }
+]

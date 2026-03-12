@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 13,
+    "plato": "La ensaladilla de bacalao ahumado, Jamon DO, harissa y lim\u00f3n kosho",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 3
+  },
+  {
+    "platoID": 15,
+    "plato": "Royal de foie, esponja de manzana esperiega de Castielfabib y granada.",
+    "descripcion": null,
+    "precio": 9.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 22,
+    "plato": "Canel\u00f3n de caza mayor y foie con salsa bordalesa cl\u00e1sica.",
+    "descripcion": null,
+    "precio": 8,
+    "cantidad": 1
+  }
+]

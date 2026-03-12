@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 72,
+    "plato": "Pizza Bolo\u00f1esa",
+    "descripcion": "tomate, queso, salsa bolo\u00f1esa, huevo (s\u00f3lo invierno)",
+    "precio": 7.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 76,
+    "plato": "Pizza de Queso de Cabra",
+    "descripcion": "tomate, queso, york, queso cabra,pimiento, olivas, alcaparras, mermelada tomate",
+    "precio": 8.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 54,
+    "plato": "Nubes de pollo",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 63,
+    "plato": "Lata de sardinillas",
+    "descripcion": null,
+    "precio": 2.5,
+    "cantidad": 1
+  }
+]

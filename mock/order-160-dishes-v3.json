@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 46,
+    "plato": "Saquitos de bogavante",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 3
+  },
+  {
+    "platoID": 65,
+    "plato": "Canelones",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 3
+  },
+  {
+    "platoID": 45,
+    "plato": "Langostino en pasta filo (unidad)",
+    "descripcion": null,
+    "precio": 1,
+    "cantidad": 1
+  }
+]

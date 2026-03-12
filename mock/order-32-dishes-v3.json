@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 139,
+    "plato": "Queso estilo camembert gratinado",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 2
+  },
+  {
+    "platoID": 146,
+    "plato": "Crema de borraja",
+    "descripcion": "con perlitas de soja y mozzarella.",
+    "precio": 7,
+    "cantidad": 3
+  },
+  {
+    "platoID": 149,
+    "plato": "Pollo crujiente",
+    "descripcion": "con mojos, de mostaza y miel y salsa ligera picante.",
+    "precio": 9.5,
+    "cantidad": 8
+  }
+]

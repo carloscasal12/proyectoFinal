@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 10,
+    "plato": "Las croquetas de la abuela",
+    "descripcion": "De lomo de la conserva, cebolla de Fuentes de Ebro y huevo eco",
+    "precio": 2.5,
+    "cantidad": 4
+  },
+  {
+    "platoID": 27,
+    "plato": "Chocolate ruby asado al Bourbon, crema helada de caramelo y flor de sal.",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 18,
+    "plato": "Cremoso de patata asada, pulpo y pato ahumado.",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 1
+  }
+]

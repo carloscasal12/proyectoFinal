@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 19,
+    "plato": "Chipironcitos tostados en guiso de careta de cerdo oreada, miel y avellanas.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 6
+  },
+  {
+    "platoID": 28,
+    "plato": "Bravas",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 27,
+    "plato": "Chocolate ruby asado al Bourbon, crema helada de caramelo y flor de sal.",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 5
+  }
+]

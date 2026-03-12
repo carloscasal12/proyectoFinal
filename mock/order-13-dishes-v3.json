@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 122,
+    "plato": "Muslitos de codorniz escabechados",
+    "descripcion": null,
+    "precio": 10.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 100,
+    "plato": "Pincho de champi\u00f1\u00f3n y gamba",
+    "descripcion": null,
+    "precio": 2.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 102,
+    "plato": "Ensalada flor",
+    "descripcion": "endivias, variedad de verdes, manzana, nueces y salsa roquefort",
+    "precio": 8,
+    "cantidad": 1
+  }
+]

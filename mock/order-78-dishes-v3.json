@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 142,
+    "plato": "Ensalada de quinoa, r\u00facula y mango fresco",
+    "descripcion": "r\u00facula, espinaca fresca, mango, aguacate, anacardos, cebolla morada y vinagreta de aceite de s\u00e9samo, soja, miel y cayena.",
+    "precio": 12,
+    "cantidad": 3
+  },
+  {
+    "platoID": 134,
+    "plato": "Piruletas de morcilla",
+    "descripcion": "con mermelada de tomate y albahaca",
+    "precio": 6,
+    "cantidad": 4
+  },
+  {
+    "platoID": 136,
+    "plato": "Croquetas (6 ud)",
+    "descripcion": "de rabo de toro, de jam\u00f3n, de setas, de cocido, de bacalao y de at\u00fan y piquillos.",
+    "precio": 6.5,
+    "cantidad": 4
+  }
+]

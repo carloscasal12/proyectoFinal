@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 87,
+    "plato": "Montaditos de Setas",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 122,
+    "plato": "Muslitos de codorniz escabechados",
+    "descripcion": null,
+    "precio": 10.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 129,
+    "plato": "Bocadillo de Tortilla del d\u00eda",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  }
+]

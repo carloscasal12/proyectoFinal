@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 13,
+    "plato": "La ensaladilla de bacalao ahumado, Jamon DO, harissa y lim\u00f3n kosho",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 26,
+    "plato": "Tartita de queso al momento con helado de tomillo.",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 3
+  },
+  {
+    "platoID": 29,
+    "plato": "Rabas de calamar",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 3
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 130,
+    "plato": "Bocadillo de Pollo con queso y cebolla caramelizada",
+    "descripcion": null,
+    "precio": 4.6,
+    "cantidad": 3
+  },
+  {
+    "platoID": 103,
+    "plato": "Ensalada burrata",
+    "descripcion": "tomate cherry confitado y burrata",
+    "precio": 8.8,
+    "cantidad": 4
+  },
+  {
+    "platoID": 117,
+    "plato": "Sepia a la plancha",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 4
+  }
+]

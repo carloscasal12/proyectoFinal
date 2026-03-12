@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 135,
+    "plato": "Bravas",
+    "descripcion": "salsa casera picante y mayonesa.salsa casera picante y mayonesa.",
+    "precio": 6.5,
+    "cantidad": 4
+  },
+  {
+    "platoID": 139,
+    "plato": "Queso estilo camembert gratinado",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 5
+  },
+  {
+    "platoID": 153,
+    "plato": "Flan de queso",
+    "descripcion": "casero con nueces.",
+    "precio": 4,
+    "cantidad": 3
+  }
+]

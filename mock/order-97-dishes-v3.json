@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 88,
+    "plato": "Montaditos de Queso y sobrasada",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 8
+  },
+  {
+    "platoID": 103,
+    "plato": "Ensalada burrata",
+    "descripcion": "tomate cherry confitado y burrata",
+    "precio": 8.8,
+    "cantidad": 2
+  },
+  {
+    "platoID": 91,
+    "plato": "Anchoas del Cant\u00e1brico",
+    "descripcion": null,
+    "precio": 7.6,
+    "cantidad": 6
+  }
+]

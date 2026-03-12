@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 76,
+    "plato": "Pizza de Queso de Cabra",
+    "descripcion": "tomate, queso, york, queso cabra,pimiento, olivas, alcaparras, mermelada tomate",
+    "precio": 8.5,
+    "cantidad": 4
+  },
+  {
+    "platoID": 36,
+    "plato": "Alitas picantes",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 35,
+    "plato": "Huevos Moll",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 58,
+    "plato": "Croqueta de ib\u00e9rico (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "cantidad": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 71,
+    "plato": "Pizza At\u00fan",
+    "descripcion": "tomate, queso, at\u00fan, olivas verdes, pimiento morr\u00f3n, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 66,
+    "plato": "Mousaka",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 1
+  },
+  {
+    "platoID": 36,
+    "plato": "Alitas picantes",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 72,
+    "plato": "Pizza Bolo\u00f1esa",
+    "descripcion": "tomate, queso, salsa bolo\u00f1esa, huevo (s\u00f3lo invierno)",
+    "precio": 7.5,
+    "cantidad": 3
+  }
+]

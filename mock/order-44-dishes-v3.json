@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 95,
+    "plato": "Boquerones en vinagre caseros",
+    "descripcion": null,
+    "precio": 6.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 126,
+    "plato": "Bocadillo de Lomo embuchado",
+    "descripcion": null,
+    "precio": 3.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 115,
+    "plato": "Sopa de cocido",
+    "descripcion": null,
+    "precio": 5.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 117,
+    "plato": "Sepia a la plancha",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 1
+  }
+]

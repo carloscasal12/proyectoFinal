@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 132,
+    "plato": "Bomb\u00f3n de morcilla",
+    "descripcion": "",
+    "precio": 2.8,
+    "cantidad": 1
+  },
+  {
+    "platoID": 154,
+    "plato": "Brownie",
+    "descripcion": "casero con helado de vainilla.",
+    "precio": 4.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 153,
+    "plato": "Flan de queso",
+    "descripcion": "casero con nueces.",
+    "precio": 4,
+    "cantidad": 1
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 59,
+    "plato": "Jalape\u00f1os (6 unidades)",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 8
+  },
+  {
+    "platoID": 57,
+    "plato": "Croqueta de cocido (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "cantidad": 1
+  },
+  {
+    "platoID": 42,
+    "plato": "Boquer\u00f3n en vinagre",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 4
+  },
+  {
+    "platoID": 31,
+    "plato": "Sepia rebozada",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 1
+  }
+]

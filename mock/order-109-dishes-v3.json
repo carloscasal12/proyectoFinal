@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 88,
+    "plato": "Montaditos de Queso y sobrasada",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 99,
+    "plato": "Gilda",
+    "descripcion": "olivas rellenas, anchoas en aceite y piparras",
+    "precio": 1.3,
+    "cantidad": 2
+  },
+  {
+    "platoID": 87,
+    "plato": "Montaditos de Setas",
+    "descripcion": null,
+    "precio": 2.4,
+    "cantidad": 2
+  }
+]

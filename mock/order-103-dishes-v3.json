@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 11,
+    "plato": "Jam\u00f3n DO Teruel al corte",
+    "descripcion": null,
+    "precio": 9.5,
+    "cantidad": 12
+  },
+  {
+    "platoID": 21,
+    "plato": "Terrina melosa y crujiente de carrillera, manitas y foie con jugo de manzanilla silvestre al palo cortado.",
+    "descripcion": null,
+    "precio": 9.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 25,
+    "plato": "Pan dormido tostado en sart\u00e9n con pasi\u00f3n y cacao.",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 1
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 127,
+    "plato": "Bocadillo de At\u00fan, anchoas, olivas y pimiento",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 108,
+    "plato": "Surtido de embutidos de la Sierra",
+    "descripcion": "Jam\u00f3n de teruel D.O.P. Sierra, lomo embuchado, mortadela, longaniza y queso",
+    "precio": 12.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 121,
+    "plato": "Fricand\u00f3 de ternera con salsa de setas",
+    "descripcion": null,
+    "precio": 10.5,
+    "cantidad": 1
+  }
+]

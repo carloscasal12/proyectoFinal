@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 28,
+    "plato": "Bravas",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 4
+  },
+  {
+    "platoID": 15,
+    "plato": "Royal de foie, esponja de manzana esperiega de Castielfabib y granada.",
+    "descripcion": null,
+    "precio": 9.5,
+    "cantidad": 2
+  }
+]

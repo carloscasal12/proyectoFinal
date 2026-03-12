@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 62,
+    "plato": "Lata de Navajuelas",
+    "descripcion": null,
+    "precio": 3,
+    "cantidad": 2
+  },
+  {
+    "platoID": 69,
+    "plato": "Pizza Tropical",
+    "descripcion": "tomate, queso, jam\u00f3n york, pi\u00f1a, or\u00e9gano, salsa agridulce",
+    "precio": 8,
+    "cantidad": 4
+  },
+  {
+    "platoID": 46,
+    "plato": "Saquitos de bogavante",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 39,
+    "plato": "Plato de queso y chorizo",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 1
+  }
+]

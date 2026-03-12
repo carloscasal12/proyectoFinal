@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 138,
+    "plato": "Tempura melosa de verduritas y queso de cabra",
+    "descripcion": null,
+    "precio": 7.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 147,
+    "plato": "Fideos al wok",
+    "descripcion": "de trigo, con verduras, gambas y langostinos.",
+    "precio": 10.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 148,
+    "plato": "Longaniza en salsa de verm\u00fa",
+    "descripcion": null,
+    "precio": 6.5,
+    "cantidad": 1
+  }
+]

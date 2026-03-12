@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 1,
+    "plato": "Ensalada de queso de cabra lechugas variadas frutos secos",
+    "descripcion": null,
+    "precio": 7.5,
+    "cantidad": 4
+  },
+  {
+    "platoID": 2,
+    "plato": "Croquetas de longaniza.",
+    "descripcion": null,
+    "precio": 7,
+    "cantidad": 3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "platoID": 37,
+    "plato": "Callos",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 2
+  },
+  {
+    "platoID": 38,
+    "plato": "Queso Brie y Camembert con mermelada de ar\u00e1ndanos",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  },
+  {
+    "platoID": 53,
+    "plato": "Pulpo a feira",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 3
+  },
+  {
+    "platoID": 63,
+    "plato": "Lata de sardinillas",
+    "descripcion": null,
+    "precio": 2.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 45,
+    "plato": "Langostino en pasta filo (unidad)",
+    "descripcion": null,
+    "precio": 1,
+    "cantidad": 3
+  }
+]

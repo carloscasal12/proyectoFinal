@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 117,
+    "plato": "Sepia a la plancha",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 2
+  },
+  {
+    "platoID": 118,
+    "plato": "Macarrones con tomate, chorizo y jam\u00f3n",
+    "descripcion": null,
+    "precio": 5.9,
+    "cantidad": 1
+  },
+  {
+    "platoID": 131,
+    "plato": "Bocadillo de Filete de ternera con queso y pimiento verde",
+    "descripcion": null,
+    "precio": 5.1,
+    "cantidad": 1
+  }
+]

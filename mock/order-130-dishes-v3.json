@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 134,
+    "plato": "Piruletas de morcilla",
+    "descripcion": "con mermelada de tomate y albahaca",
+    "precio": 6,
+    "cantidad": 4
+  },
+  {
+    "platoID": 149,
+    "plato": "Pollo crujiente",
+    "descripcion": "con mojos, de mostaza y miel y salsa ligera picante.",
+    "precio": 9.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 150,
+    "plato": "Pulpo",
+    "descripcion": "con patata parmentier.",
+    "precio": 13,
+    "cantidad": 1
+  }
+]

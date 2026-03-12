@@ -1,0 +1,37 @@
+[
+  {
+    "platoID": 79,
+    "plato": "Pizza Serrana",
+    "descripcion": "tomate, queso, jam\u00f3n serrano, queso brie, tomate cherry, mermelada tomate",
+    "precio": 8.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 70,
+    "plato": "Pizza Diablo",
+    "descripcion": "tomate, queso, jam\u00f3n york, guindilla, or\u00e9gano, salsa picante, olivas",
+    "precio": 7.8,
+    "cantidad": 2
+  },
+  {
+    "platoID": 66,
+    "plato": "Mousaka",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 5
+  },
+  {
+    "platoID": 55,
+    "plato": "Gamb\u00f3n rebozado (unidad)",
+    "descripcion": null,
+    "precio": 1,
+    "cantidad": 6
+  },
+  {
+    "platoID": 45,
+    "plato": "Langostino en pasta filo (unidad)",
+    "descripcion": null,
+    "precio": 1,
+    "cantidad": 1
+  }
+]

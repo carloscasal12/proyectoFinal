@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 57,
+    "plato": "Croqueta de cocido (unidad)",
+    "descripcion": null,
+    "precio": 0.7,
+    "cantidad": 2
+  },
+  {
+    "platoID": 33,
+    "plato": "Gambas al ajillo",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 2
+  },
+  {
+    "platoID": 73,
+    "plato": "Pizza 3 Quesos",
+    "descripcion": "tomate, queso mozzarella, queso semicurado, queso roquefort, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 53,
+    "plato": "Pulpo a feira",
+    "descripcion": null,
+    "precio": 12,
+    "cantidad": 3
+  }
+]

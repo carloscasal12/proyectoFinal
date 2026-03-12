@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 138,
+    "plato": "Tempura melosa de verduritas y queso de cabra",
+    "descripcion": null,
+    "precio": 7.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 141,
+    "plato": "Ensalada de tallarines de calabac\u00edn",
+    "descripcion": "frambuesas, chips de pi\u00f1a y mango, frutos secos, salsa ligera de soja caramelizada y s\u00e9samo.",
+    "precio": 11.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 133,
+    "plato": "Tosta de escalivada con sardina ahumada",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  }
+]

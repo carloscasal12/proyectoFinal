@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 28,
+    "plato": "Bravas",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 6
+  },
+  {
+    "platoID": 12,
+    "plato": "Plato de Los mejores Quesos",
+    "descripcion": null,
+    "precio": 15,
+    "cantidad": 2
+  },
+  {
+    "platoID": 19,
+    "plato": "Chipironcitos tostados en guiso de careta de cerdo oreada, miel y avellanas.",
+    "descripcion": null,
+    "precio": 9,
+    "cantidad": 2
+  }
+]

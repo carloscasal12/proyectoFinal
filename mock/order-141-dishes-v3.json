@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 119,
+    "plato": "Macarrones con nata, champi\u00f1ones y bacon",
+    "descripcion": null,
+    "precio": 5.9,
+    "cantidad": 4
+  },
+  {
+    "platoID": 116,
+    "plato": "Fritada con huevo escalfado",
+    "descripcion": null,
+    "precio": 6,
+    "cantidad": 4
+  },
+  {
+    "platoID": 102,
+    "plato": "Ensalada flor",
+    "descripcion": "endivias, variedad de verdes, manzana, nueces y salsa roquefort",
+    "precio": 8,
+    "cantidad": 1
+  }
+]

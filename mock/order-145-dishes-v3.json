@@ -1,0 +1,30 @@
+[
+  {
+    "platoID": 67,
+    "plato": "Pizza Margarita",
+    "descripcion": "tomate, queso, or\u00e9gano, olivas negras",
+    "precio": 7,
+    "cantidad": 4
+  },
+  {
+    "platoID": 61,
+    "plato": "Lata de Mejill\u00f3n",
+    "descripcion": null,
+    "precio": 4.1,
+    "cantidad": 1
+  },
+  {
+    "platoID": 48,
+    "plato": "Txistorra frita",
+    "descripcion": null,
+    "precio": 3.5,
+    "cantidad": 2
+  },
+  {
+    "platoID": 54,
+    "plato": "Nubes de pollo",
+    "descripcion": null,
+    "precio": 4,
+    "cantidad": 1
+  }
+]

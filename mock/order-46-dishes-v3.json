@@ -1,0 +1,23 @@
+[
+  {
+    "platoID": 78,
+    "plato": "Pizza Barbacoa",
+    "descripcion": "tomate, queso, carne picada, bacon, salsa barbacoa, or\u00e9gano",
+    "precio": 8.2,
+    "cantidad": 1
+  },
+  {
+    "platoID": 50,
+    "plato": "Verduritas en tempura a la miel",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 68,
+    "plato": "Pizza Romana",
+    "descripcion": "tomate, queso, jam\u00f3n york, olivas negras, or\u00e9gano",
+    "precio": 7.5,
+    "cantidad": 1
+  }
+]
