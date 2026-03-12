@@ -12,5 +12,19 @@
     "apellido1": "Martin",
     "apellido2": "Sanz",
     "poblacion": "Zaragoza"
+  },
+  {
+    "clienteID": 3,
+    "nombre": "Marta",
+    "apellido1": "Ruiz",
+    "apellido2": "Soto",
+    "poblacion": "Zaragoza"
+  },
+  {
+    "clienteID": 4,
+    "nombre": "Jorge",
+    "apellido1": "Perez",
+    "apellido2": "Alba",
+    "poblacion": "Zaragoza"
   }
 ]

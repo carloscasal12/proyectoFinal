@@ -30,5 +30,37 @@
     "precio": 2.5,
     "categoriaID": 1,
     "restauranteID": 2
+  },
+  {
+    "platoID": 30,
+    "plato": "Anillas de calamar",
+    "descripcion": null,
+    "precio": 5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 31,
+    "plato": "Sepia rebozada",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
+    "platoID": 40,
+    "plato": "Bravas",
+    "descripcion": null,
+    "precio": 4.5,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 41,
+    "plato": "Tortilla de patata",
+    "descripcion": null,
+    "precio": 5.8,
+    "categoriaID": 1,
+    "restauranteID": 4
   }
 ]

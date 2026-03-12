@@ -10,5 +10,17 @@
     "fecha": "2026-03-11",
     "clienteID": 2,
     "restauranteID": 2
+  },
+  {
+    "pedidoID": 103,
+    "fecha": "2026-03-11",
+    "clienteID": 3,
+    "restauranteID": 3
+  },
+  {
+    "pedidoID": 104,
+    "fecha": "2026-03-12",
+    "clienteID": 4,
+    "restauranteID": 4
   }
 ]
