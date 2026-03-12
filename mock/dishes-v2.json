@@ -16,6 +16,14 @@
     "restauranteID": 1
   },
   {
+    "platoID": 3,
+    "plato": "Pollo asado con patatas",
+    "descripcion": "2Kg aprox.",
+    "precio": 14.5,
+    "categoriaID": 7,
+    "restauranteID": 1
+  },
+  {
     "platoID": 9,
     "plato": "Gilda con salsa Espinaler",
     "descripcion": null,
@@ -29,6 +37,14 @@
     "descripcion": "Lomo, cebolla y huevo",
     "precio": 2.5,
     "categoriaID": 1,
+    "restauranteID": 2
+  },
+  {
+    "platoID": 11,
+    "plato": "Tartar de salmon",
+    "descripcion": null,
+    "precio": 12,
+    "categoriaID": 2,
     "restauranteID": 2
   },
   {
@@ -48,6 +64,14 @@
     "restauranteID": 3
   },
   {
+    "platoID": 32,
+    "plato": "Tortilla de patata",
+    "descripcion": null,
+    "precio": 5.8,
+    "categoriaID": 1,
+    "restauranteID": 3
+  },
+  {
     "platoID": 40,
     "plato": "Bravas",
     "descripcion": null,
@@ -60,6 +84,14 @@
     "plato": "Tortilla de patata",
     "descripcion": null,
     "precio": 5.8,
+    "categoriaID": 1,
+    "restauranteID": 4
+  },
+  {
+    "platoID": 42,
+    "plato": "Rabas de calamar",
+    "descripcion": null,
+    "precio": 5,
     "categoriaID": 1,
     "restauranteID": 4
   }

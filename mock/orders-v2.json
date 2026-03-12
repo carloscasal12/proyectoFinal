@@ -6,9 +6,21 @@
     "restauranteID": 1
   },
   {
+    "pedidoID": 105,
+    "fecha": "2026-03-12",
+    "clienteID": 2,
+    "restauranteID": 1
+  },
+  {
     "pedidoID": 102,
     "fecha": "2026-03-11",
     "clienteID": 2,
+    "restauranteID": 2
+  },
+  {
+    "pedidoID": 106,
+    "fecha": "2026-03-12",
+    "clienteID": 3,
     "restauranteID": 2
   },
   {
@@ -18,9 +30,21 @@
     "restauranteID": 3
   },
   {
+    "pedidoID": 107,
+    "fecha": "2026-03-12",
+    "clienteID": 4,
+    "restauranteID": 3
+  },
+  {
     "pedidoID": 104,
     "fecha": "2026-03-12",
     "clienteID": 4,
+    "restauranteID": 4
+  },
+  {
+    "pedidoID": 108,
+    "fecha": "2026-03-12",
+    "clienteID": 1,
     "restauranteID": 4
   }
 ]

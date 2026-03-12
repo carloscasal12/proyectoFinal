@@ -1,0 +1,16 @@
+[
+  {
+    "platoID": 42,
+    "plato": "Rabas de calamar",
+    "descripcion": null,
+    "precio": 5,
+    "cantidad": 1
+  },
+  {
+    "platoID": 40,
+    "plato": "Bravas",
+    "descripcion": null,
+    "precio": 4.5,
+    "cantidad": 1
+  }
+]
