@@ -1,45 +1,32 @@
 # Proyecto Restaurante
-
-Aplicación full-stack para gestionar restaurantes, platos, pedidos y clientes.
-El backend expone una API REST y el frontend consume esa API con React.
-
+App full-stack para restaurantes, platos, pedidos y clientes.
+Backend API REST en Docker; frontend React consume la API.
 **Tecnologías**
-- Backend: Node.js + MySQL en Docker Compose.
+- Backend: Node.js + MySQL (Docker Compose).
 - Frontend: React + Vite + React Router.
-- UI: MUI y DataGrid.
-
-**Qué hace**
-- Lista restaurantes.
-- Muestra platos, pedidos y clientes.
+- UI: MUI + DataGrid (responsive).
+**Funcionalidad (requisitos)**
+- Lista restaurantes y detalle por restaurante (platos, pedidos y clientes).
 - Consulta platos por pedido en `/order/:id/dishes`.
-- Navegación entre `/` y `/restaurants/:id` sin recargar.
-
-**Cómo lo he hecho**
-- API en contenedor Node con conexión a MySQL.
-- Base de datos inicializada con scripts en `restaurante-backend/data/initData`.
-- Variables de entorno en `restaurante-backend/.env` para credenciales.
-- Frontend con `fetch` + `async/await` y estado con `useState`/`useEffect`.
-- Separación de páginas en `restaurante-frontend/src/pages`.
-- Helper de API en `restaurante-frontend/src/api.js`.
-
-**Puertos y endpoints**
-- API: `http://localhost:4000`.
-- phpMyAdmin: `http://localhost:9091`.
-- Endpoints principales: `/restaurants`, `/dishes`, `/customers`, `/orders`.
-
-**Configurar entorno**
-- Backend: revisa `restaurante-backend/.env`.
-- Frontend dev: `restaurante-frontend/.env` con `VITE_API_URL`.
-- Frontend prod: `restaurante-frontend/.env.production` con `VITE_API_URLS`.
-
-**Cómo activar todo (local)**
-1. En `restaurante-backend`: `docker compose up -d`.
-2. Verifica la API en `http://localhost:4000/restaurants`.
-3. En `restaurante-frontend`: `npm install`.
-4. Arranca el frontend: `npm run dev`.
-5. Abre la app en la URL que indique Vite (normalmente `http://localhost:5173`).
-
-**Despliegue**
-- Compila: `npm run build`.
-- Publica en GitHub Pages: `npm run deploy`.
+- `fetch` + `async/await` con `useState`/`useEffect`.
+- React Router con rutas `/` y `/restaurants/:id`.
+- SPA sin recargas, actualización dinámica con estado.
+- Componentes de terceros para tabla (DataGrid).
+**Interfaz**
+- Diseño responsive móvil y escritorio.
+- Estilos con framework CSS (MUI).
+**Config**
+- API principal: `http://51.210.22.156:4000`.
+- API local: `http://localhost:4000`.
+- Frontend dev: `restaurante-frontend/.env` (`VITE_API_URL`).
+- Frontend prod: `restaurante-frontend/.env.production` (`VITE_API_URLS`).
+**Arranque local (Docker)**
+- Backend: `docker compose up -d` en `restaurante-backend`.
+- Verifica la API en `http://localhost:4000/restaurants`.
+- Frontend: `npm install` y `npm run dev` en `restaurante-frontend`.
+**Despliegue (GitHub Pages)**
+- `npm run build` y `npm run deploy` en `restaurante-frontend`.
 - Activa GitHub Pages en la rama `gh-pages`.
+**Control de versiones**
+- 5+ commits con mensajes descriptivos.
+- Una sola rama principal.
