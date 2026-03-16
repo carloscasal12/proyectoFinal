@@ -7,6 +7,18 @@ const API_BASES = (rawList || single || 'http://localhost:4000')
 
 let resolvedBase = null
 
+function normalizeBase(base) {
+  return base.replace(/\/+$/, '')
+}
+
+function expandCandidates(base) {
+  const normalized = normalizeBase(base)
+  if (normalized.endsWith('/api')) {
+    return [normalized]
+  }
+  return [normalized, `${normalized}/api`]
+}
+
 async function requestJson(base, path) {
   const response = await fetch(`${base}${path}`)
   if (!response.ok) {
@@ -27,12 +39,14 @@ export async function fetchJson(path) {
 
   let lastError = null
   for (const base of API_BASES) {
-    try {
-      const data = await requestJson(base, path)
-      resolvedBase = base
-      return data
-    } catch (error) {
-      lastError = error
+    for (const candidate of expandCandidates(base)) {
+      try {
+        const data = await requestJson(candidate, path)
+        resolvedBase = candidate
+        return data
+      } catch (error) {
+        lastError = error
+      }
     }
   }
 
