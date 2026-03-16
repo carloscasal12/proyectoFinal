@@ -16,7 +16,7 @@ Backend API REST en Docker; frontend React consume la API.
 - Diseño responsive móvil y escritorio.
 - Estilos con framework CSS (MUI).
 **Config**
-- API principal: `http://51.210.22.156:4000`.
+- API principal: `https://restaurants.arasaac.org`.
 - API local: `http://localhost:4000`.
 - Frontend dev: `restaurante-frontend/.env` (`VITE_API_URL`).
 - Frontend prod: `restaurante-frontend/.env.production` (`VITE_API_URLS`).
