@@ -112,22 +112,6 @@ function RestaurantPage() {
     }, {})
   }, [customers])
 
-  const ordersWithCustomer = useMemo(() => {
-    return orders.map((order) => {
-      const customer = customersMap[order.clienteID]
-      const fullName = customer
-        ? `${customer.nombre} ${customer.apellido1} ${customer.apellido2}`
-        : 'Sin datos'
-      const dishCount = orderDishes[order.pedidoID]?.length || 0
-      return {
-        ...order,
-        clienteNombre: fullName,
-        poblacion: customer?.poblacion || 'N/D',
-        platos: dishCount,
-      }
-    })
-  }, [orders, customersMap, orderDishes])
-
   const dishColumns = useMemo(
     () => [
       { field: 'plato', headerName: 'Plato', flex: 1, minWidth: 200 },
@@ -143,17 +127,6 @@ function RestaurantPage() {
         width: 120,
         valueFormatter: (value) => `€ ${value ?? 'N/D'}`,
       },
-    ],
-    []
-  )
-
-  const orderColumns = useMemo(
-    () => [
-      { field: 'pedidoID', headerName: 'Pedido', width: 110 },
-      { field: 'fecha', headerName: 'Fecha', width: 130 },
-      { field: 'clienteNombre', headerName: 'Cliente', flex: 1, minWidth: 180 },
-      { field: 'poblacion', headerName: 'Población', width: 140 },
-      { field: 'platos', headerName: 'Platos', width: 110 },
     ],
     []
   )
@@ -214,27 +187,7 @@ function RestaurantPage() {
               <Card>
                 <CardContent>
                   <Stack spacing={2}>
-                    <Typography variant="h4">Pedidos y clientes</Typography>
-                    <div className="data-grid">
-                      <DataGrid
-                        rows={ordersWithCustomer}
-                        columns={orderColumns}
-                        autoHeight
-                        pageSizeOptions={[5, 10]}
-                        disableRowSelectionOnClick
-                        getRowId={(row) => row.pedidoID}
-                      />
-                    </div>
-                  </Stack>
-                </CardContent>
-              </Card>
-
-              <Card>
-                <CardContent>
-                  <Stack spacing={2}>
-                    <Typography variant="h4">
-                      Detalle de platos por pedido
-                    </Typography>
+                    <Typography variant="h4">Pedidos (cliente + platos)</Typography>
                     <Divider />
                     {orders.map((order) => (
                       <Accordion key={order.pedidoID} className="order-accordion">
@@ -256,22 +209,55 @@ function RestaurantPage() {
                           </Stack>
                         </AccordionSummary>
                         <AccordionDetails>
-                          <Stack spacing={1}>
-                            {(orderDishes[order.pedidoID] || []).map((dish) => (
-                              <Box key={`${order.pedidoID}-${dish.platoID}`}>
-                                <Typography variant="subtitle2">
-                                  {dish.plato}
-                                </Typography>
+                          <Stack spacing={2}>
+                            <Box>
+                              <Typography variant="subtitle2">Cliente</Typography>
+                              {customersMap[order.clienteID] ? (
+                                <Stack spacing={0.5}>
+                                  <Typography variant="body2">
+                                    {customersMap[order.clienteID].nombre}{' '}
+                                    {customersMap[order.clienteID].apellido1}{' '}
+                                    {customersMap[order.clienteID].apellido2}
+                                  </Typography>
+                                  <Typography variant="body2" color="text.secondary">
+                                    Población: {customersMap[order.clienteID].poblacion}
+                                  </Typography>
+                                  <Typography variant="body2" color="text.secondary">
+                                    Sexo: {customersMap[order.clienteID].sexo}
+                                  </Typography>
+                                </Stack>
+                              ) : (
                                 <Typography variant="body2" color="text.secondary">
-                                  Cantidad: {dish.cantidad} · € {dish.precio}
+                                  Sin datos de cliente.
                                 </Typography>
-                              </Box>
-                            ))}
-                            {!orderDishes[order.pedidoID]?.length && (
-                              <Typography variant="body2" color="text.secondary">
-                                No hay platos registrados.
+                              )}
+                            </Box>
+
+                            <Box>
+                              <Typography variant="subtitle2">
+                                Platos del pedido
                               </Typography>
-                            )}
+                              <Stack spacing={1}>
+                                {(orderDishes[order.pedidoID] || []).map((dish) => (
+                                  <Box key={`${order.pedidoID}-${dish.platoID}`}>
+                                    <Typography variant="body2">
+                                      {dish.plato}
+                                    </Typography>
+                                    <Typography
+                                      variant="body2"
+                                      color="text.secondary"
+                                    >
+                                      Cantidad: {dish.cantidad} · € {dish.precio}
+                                    </Typography>
+                                  </Box>
+                                ))}
+                                {!orderDishes[order.pedidoID]?.length && (
+                                  <Typography variant="body2" color="text.secondary">
+                                    No hay platos registrados.
+                                  </Typography>
+                                )}
+                              </Stack>
+                            </Box>
                           </Stack>
                         </AccordionDetails>
                       </Accordion>
